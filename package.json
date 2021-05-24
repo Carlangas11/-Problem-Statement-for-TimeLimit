@@ -1,0 +1,23 @@
+{
+  "name": "-problem-statement-for-timelimit",
+  "version": "1.0.0",
+  "description": "A problem with a job interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --collectCoverage=false"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlangas11/-Problem-Statement-for-TimeLimit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carlangas11/-Problem-Statement-for-TimeLimit/issues"
+  },
+  "homepage": "https://github.com/Carlangas11/-Problem-Statement-for-TimeLimit#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "jest": "^26.6.3"
+  }
+}
